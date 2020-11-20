@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45654e3e-f93e-463d-8e5d-b4b6038f9d46" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="4" />
+    <option name="PRINT_LINE_NUMBERS" value="true" />
+    <option name="OPEN_IN_BROWSER" value="true" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../Calculator\exportToHTML" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kWeDClDRzKbT03JvW0Uo3l21xM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="testtask.calculator.Startup" />
+      <module name="Calculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="WindowStateProjectService">
+    <state x="137" y="23" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605820696991">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="23" width="1092" height="715" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1605820696991" />
+    <state x="432" y="205" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1605823780483">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="432" y="205" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1366.738@0.0.1366.738" timestamp="1605823780483" />
+    <state x="412" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1605820692749">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="412" y="170" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.738@0.0.1366.738" timestamp="1605820692749" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1605824075167">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1605824075167" />
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom" timestamp="1605852518591">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1605852518591" />
+    <state width="1323" height="227" key="GridCell.Tab.0.center" timestamp="1605852518591">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1605852518591" />
+    <state width="1323" height="227" key="GridCell.Tab.0.left" timestamp="1605852518591">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1605852518591" />
+    <state width="1323" height="227" key="GridCell.Tab.0.right" timestamp="1605852518591">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1605852518591" />
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom" timestamp="1605852518591">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1605852518591" />
+    <state width="1323" height="227" key="GridCell.Tab.1.center" timestamp="1605852518591">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1605852518591" />
+    <state width="1323" height="227" key="GridCell.Tab.1.left" timestamp="1605852518591">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1605852518591" />
+    <state width="1323" height="227" key="GridCell.Tab.1.right" timestamp="1605852518591">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="227" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1605852518591" />
+    <state x="146" y="122" key="vcs.ApplyPatchDifferentiatedDialog" timestamp="1605822945126">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="146" y="122" key="vcs.ApplyPatchDifferentiatedDialog/0.0.1366.738@0.0.1366.738" timestamp="1605822945126" />
+  </component>
+</project>
